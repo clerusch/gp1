@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  12 MAR 2018 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  12 MAR 2018 12:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,119 +775,19 @@ l.176  \begin{tabular}{FORMAT}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.177      Versuch Nr. & Ar T_
-                              {100} in s & N_{2} T_{100} in s & CO_{2} T_{10...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+! Undefined control sequence.
+l.189  Gemessener Luftdruck: 997mbar \plusminus
+                                               ~1mbar
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! Extra }, or forgotten $.
-<template> \unskip \hfil }
-                          \hskip \tabcolsep \endtemplate 
-l.177      Versuch Nr. & Ar T_{100} in s &
-                                           N_{2} T_{100} in s & CO_{2} T_{10...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.177      Versuch Nr. & Ar T_{100} in s &
-                                           N_{2} T_{100} in s & CO_{2} T_{10...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.177      Versuch Nr. & Ar T_{100} in s &
-                                           N_{2} T_{100} in s & CO_{2} T_{10...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.177      Versuch Nr. & Ar T_{100} in s & N_
-                                             {2} T_{100} in s & CO_{2} T_{10...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-<template> \unskip \hfil }
-                          \hskip \tabcolsep \endtemplate 
-l.177 ... & Ar T_{100} in s & N_{2} T_{100} in s &
-                                                   CO_{2} T_{100} in s \\
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.177 ... & Ar T_{100} in s & N_{2} T_{100} in s &
-                                                   CO_{2} T_{100} in s \\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.177 ... & Ar T_{100} in s & N_{2} T_{100} in s &
-                                                   CO_{2} T_{100} in s \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.177 ...r T_{100} in s & N_{2} T_{100} in s & CO_
-                                                  {2} T_{100} in s \\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-<template> \unskip \hfil }
-                          \hskip \tabcolsep \endtemplate 
-l.178      1
-             & 32.9 & 36.0 & 35.6 \\
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.178      1
-             & 32.9 & 36.0 & 35.6 \\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.178      1
-             & 32.9 & 36.0 & 35.6 \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+Overfull \hbox (19.31471pt too wide) in paragraph at lines 176--190
+[] \OT1/cmr/m/n/10.95 Ge-mes-se-ner Luft-druck: 997mbar  1mbar 
+ []
 
 [5] (./protokollisentropenindex.aux) ) 
 Here is how much of TeX's memory you used:
@@ -909,7 +809,7 @@ fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmti12.pfb>
-Output written on protokollisentropenindex.pdf (6 pages, 145957 bytes).
+Output written on protokollisentropenindex.pdf (6 pages, 145817 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
