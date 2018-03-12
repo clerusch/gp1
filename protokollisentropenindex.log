@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  12 MAR 2018 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  12 MAR 2018 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -736,7 +736,7 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.275  Gemessener Luftdruck: 997mbar \plusminus
+l.286  Gemessener Luftdruck: 997mbar \plusminus
                                                ~1mbar \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -747,13 +747,13 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.276  Fehler \Delta
+l.287  Fehler \Delta
                     ~h = \plusminus2 mm
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Undefined control sequence.
-l.276  Fehler \Delta~h = \plusminus
+l.287  Fehler \Delta~h = \plusminus
                                    2 mm
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -764,7 +764,7 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.277 \end{document}
+l.288 \end{document}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -790,7 +790,7 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on protokollisentropenindex.pdf (8 pages, 171507 bytes).
+Output written on protokollisentropenindex.pdf (8 pages, 173860 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream
