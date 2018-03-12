@@ -186,7 +186,7 @@ Hier wird die Adiabatengleichung $pV^\kappa=konst$~\eqref{f13} verwendet. Mithil
     \label{f22}
   \frac{dp}{p}+\kappa\frac{dV}{V}=0
 \end{equation}
-Die Rückstellkonstante wird mit~\eqref{f22} und~\eqref{f2} zu:
+Die Rückstellkonstante wird mit~\eqref{f22} und (22) zu:
 \begin{equation}
     \label{f23}
   D=\kappa\frac{pS^2}{V}
@@ -200,6 +200,20 @@ mit $\omega=\frac{2\pi}{T}$ mit T als Periodendauer (einfach zu messen) erhält 
 \begin{equation}
     \label{f25}
   \kappa=\frac{4\pi^2}{T^2}\frac{mV}{pS^2}
+\end{equation}
+Die theoretische Herleitung von $\kappa$ erfolgt über die Freiheitsgrade. Die Abhängigkeit von den Freiheitsgraden f kann man sich über die Energie
+\begin{equation}
+  E_{kin}=\frac{1}{2}T f k_{B} N = U
+\end{equation}
+hergelitten werden. Dazu benötigt man noch die Zusammenhänge
+\begin{align}
+  pV &= N k_{B} \\
+  C_{V} &= \frac{dQ}{dT}\bigg|_{V}=\frac{dU}{dT}\bigg|_{V}=\frac{1}{2}fNk_{B} \\
+  C_{p}&=\frac{dQ}{dT}\bigg|_{p} = \frac{dU}{dT}\bigg|_{p} +\frac{pdV}{dT}\bigg|_{p}=\frac{1}{2}fk_{B}N+Nk_{B}
+\end{align}
+setzt man für Kappa $\kappa=\frac{C_{p}}{C_{V}}$ ein, so erhält man den gesuchten Zusammenhang
+\begin{equation}
+  \kappa = \frac{f+2}{f}
 \end{equation}
   \newpage
  \section{\underline{Tabelle 1: Methode nach Clement-Desormes:}}
