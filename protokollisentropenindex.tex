@@ -1,0 +1,165 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[left=2.5cm,right=2.5cm,top=3cm,bottom=3.5cm]{geometry}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsfonts} 
+\usepackage{svg}
+\usepackage{amsmath}
+\begin{document}
+ 
+ \begin{center}
+  {\scshape\LARGE Grundpraktikum I \par}
+  \vspace{1cm}
+  {\scshape\Large Versuchsprotokoll\par}
+  \vspace{1.5cm}
+  {\huge\bfseries Isentropenindex\par}
+  \vspace{2cm}
+     {\large \itshape{Clemens Schumann, Tassilo Scheffler}\/ \par}
+  \vspace{0.5cm}
+  {clemensrubenschumann@googlemail.com, \\ tassilo@glief.de}
+  \vfill
+  betreut von\par
+  \textsc{Larissa Melischek}
+  \vfill
+  {\Large 10.03.2018}
+ 
+ \end{center}
+ 
+ \thispagestyle{empty}
+ 
+ \newpage
+ \setcounter{page}{1}
+ \tableofcontents
+ \newpage
+ \section{\underline{Physikalische Grundlagen}}
+ \subsection{Innere Energie und W\"armekapazit\"at}
+ In einem abgeschlossenem System bleibt der Gesamtbetrag der Energie konstant.
+ Innerhalb des Systems k\"onnenn sich die verschiedenen Energien ineinander umwandeln
+ (1. Hauptsatz der Thermodynamik). Dabei sind die verschiedenen Energien die
+ kinetische Energie $E_{kin}$, die potentielle Energie $E_{pot}$ und die innere Energie U
+ des Systems. Diese innere Energie beschreibt die gesamte thermische Energie bzw.\ die
+ gesamte kinetische und potentielle Energie des Systems. Die \"Anderung $dU$
+ l\"asst sich mit der \"Anderung $dW$ der Arbeit und dem W\"arme\"ubertrag $dQ$
+ bestimmen.
+ \begin{align}
+     \label{f1}
+     dU=dQ+dW
+ \end{align}
+ Mithilfe des W\"arme\"ubertrags und der Temperatur\"anderung $dT$ l\"asst sich die
+ W\"armekapazit\"at $C$ definieren:
+ \begin{align}
+     \label{f2}
+     C=\frac{dQ}{dT}
+ \end{align}
+ Dies ist von der Masse $m$ ab\"angig, weswegen man die spezifische W\"armekapazit\"at
+ \begin{align}
+     \label{f3}
+     c=\frac{C}{m}
+ \end{align}
+ definiert. M\"ochte man stattdessen eine Unabh\"angigkeit von der Stoffmenge M, so ist
+ \begin{align}
+     \label{f4}
+     C_{m}=\frac{c}{n}
+ \end{align}
+ als molare W\"armekapazit\"at definiert, wobei n die Molanzahl ist. Die
+ W\"armekapazit\"at ist stoffabh\"angig und wird in $\frac{Joule}{Kelvin}$ angegeben.
+ \subsection{Gase}
+ F\"ur ideale Gase (bestehend aus punktf\"ormigen isotropen Kugeln, welche nur
+ elastische St\"o{\ss}e untereinander betreiben) gilt immer eine Zustandsgleichung.
+ \begin{align}
+     \label{f5}
+     \frac{pV}{T}=konstant=n \cdot R=N \cdot k_{B}
+ \end{align}
+ Nach der kinetischen Gastheorie definiert man den Druck des Gases als Folge der
+ St\"o{\ss}e, die die Gasmolek\"ule auf die Gef\"a{\ss}wand aus\"uben. \\
+ Nun k\"onnen die Zust\"ande eines Gases verschieden ge\"andert werden. Als erstes sei
+ die isochore Zustands\"anderung (v=konstant) genannt. F\"ur diese kann nun
+ \begin{align}
+     \label{f6}
+     dU=C_{V}dT
+ \end{align}
+ \begin{align}
+     \label{f7}
+     C_{V}=N \frac{f}{2} k_{B}
+ \end{align}
+ hergeleitet werden. Die Freiheitsgrade sind die Anzahl der unabh\"angigen Parameter,
+ die ben\"otigt werden, um ein System zu beschreiben. Es gibt 3 Freiheitsgrade der
+ Translation, 2 der Rotation und 2 der Schwingung eines Molek\"uls bzw.\ Systems. \\
+ Als zweites sei hier die isobare Zustands\"anderung eines Gases (p=konstant) genannt.
+ Hierf\"ur wird \"ahnlich definiert:
+ \begin{align}
+     \label{f8}
+     Vdp = C_{p}dT
+ \end{align}
+ und
+ \begin{align}
+     \label{f9}
+     C_{p}=N\left(\frac{f}{2}+1\right)k_{B}
+ \end{align}
+ In einer dritten, sogenannten adiabatischen (isentropen) zustands\"anderung l\"asst
+ sich das vorige zusammenbringen. Denn hierbei darf nur kein W\"armeaustausch mit der
+ Umgebung stattfinden ($dQ=0$) bzw.\ die Entropie muss gleichbleibend sein.
+ Demenstprechend finden auch nur reversible Prozesse statt. Damit wird aus~\eqref{f6}
+ und~\eqref{f1}:
+ \begin{align}
+     \label{f10}
+     dU=dW=-pdV=C_{V}dT
+ \end{align}
+ Mithilfe von~\eqref{f8} und~\eqref{f10}, indem man jeweils $dT$ isoliert, er\"alt man
+ \begin{align}
+     \label{f11}
+     \frac{c_{p}}{c_{V}}Vdp=-pdV \leftrightarrow \frac{1}{p}dp=-\frac{\kappa}{V}dV
+ \end{align}
+ wobei
+ \begin{align}
+     \label{f12}
+     \kappa = \frac{c_{p}}{c_{V}} 
+ \end{align}
+ benutzt wurde. Integrieren von $p_{1},V_{1} \rightarrow p_{2},V_{2}$ und exponenzieren
+ von~\eqref{f11} ergibt
+ \begin{align}
+     \label{f13}
+     \frac{p_{2}}{p_{1}} = {\left(\frac{V_{1}}{V_{2}}\right)}^{\kappa} \rightarrow
+     p \cdot {V}^{\lappa} = konst.\
+ \end{align}
+ Mit~\eqref{f5} wird dies zu
+ \begin{align}
+     \label{f14}
+     T\cdot{V}^{\kappa-1}=konst.\
+ \end{align}
+ und
+ \begin{align}
+     \label{f15}
+     {p}^{1-\kappa}{T}^{\kappa}=konst.\
+ \end{align}
+ Die Gleichungen~\eqref{f13},\eqref{f14} und~\eqref{f15} werden Poisson-Gleichungen
+ oder auch Adiabatengleichungen genannt. Der Isentropenindex $\kappa$ kann experimentell
+ ermittelt werden. Dazu bieten sich mehrere Methoden an. Im Rahmen des Grundpraktikums
+ werden die Methoden nach Clement-Desormes und nach Flammersfeld-R\"uchart verwendet. 
+ \newpage
+ \subsection{\underline{Methode nach Clement-Desormes}}
+ Bei dieser Methode zur Bestimmung von $\kappa$ wird ein \"Uberdruck in einem
+ Glasbeh\"alter erzeugt. Nach dem thermischem Ausgleich auf Zimmertemperatur wird ein
+ Entl\"uftungsventil kurzzeitig ge\"offnet, wodurch eine nahezu afiabatische
+ Zustands\"anderung erfolgt. Anschlie{\ss}end findet eine isochore Zustands\"anderung
+ statt, bis die Zimmertemperatur wieder erreicht ist. \\
+ Daher kann mit~\eqref{f13} und~\eqref{f14} f\"ur die adiabatische Zustands\"anderung
+ folgendes geschrieben werden:
+ \begin{align}
+     \label{f16}
+     \left(p_{0}+\Delta p_{1} \right) V_{0}^{\kappa}=p_{0}{\left(V_{0}+\Delta
+     V\right)}^{\kappa}
+ \end{align}
+ \begin{align}
+     \label{f17}
+     \left(T_{0}-\Delta T\right){\left(V_{0}+\Delta V\right)}^{\kappa-1} = 
+     T_{0}V_{0}^{\kappa-1}
+ \end{align}
+ mit $T_{0}$,$p_{0}$ und $V_{0}$ als Normalbedingungen (Zimmertemperatur, Luftdruck und 
+ Volumen des Glasbeh\"alters) und $\Delta$p_{1}, $\Delta$V und $\Delta$T als \"Anderung
+ dieser. Mit der N\"aherung $\Delta$V $<<$ $V_{0}$ erh\"alt man
+ \begin{align}
+     \label{f18}
+ \end{align}
+\end{document}
