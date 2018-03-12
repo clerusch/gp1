@@ -4,9 +4,13 @@
 \contentsline {subsection}{\numberline {1.2}Gase}{2}
 \contentsline {subsection}{\numberline {1.3}Methode nach Clement-Desormes}{4}
 \contentsline {subsection}{\numberline {1.4}Methode nach Flammersfeld-R\IeC {\"u}chert}{4}
-\contentsline {section}{\numberline {2}\relax $\@@underline {\hbox {Messwerte}}\mathsurround \z@ $\relax }{6}
-\contentsline {subsection}{\numberline {2.1}Tabelle 1: Methode nach Clement-Desormes:}{6}
-\contentsline {subsubsection}{\numberline {2.1.1}Aufgabe 1:}{6}
-\contentsline {subsection}{\numberline {2.2}Tabelle 2: Methode nach Flammersfeld-R\"uchart}{6}
-\contentsline {subsubsection}{\numberline {2.2.1}Aufgabe 2:}{6}
-\contentsline {section}{\numberline {3}weiteres}{6}
+\contentsline {section}{\numberline {2}\relax $\@@underline {\hbox {Auswertung}}\mathsurround \z@ $\relax }{6}
+\contentsline {subsection}{\numberline {2.1}Aufgabe 1}{6}
+\contentsline {subsection}{\numberline {2.2}Fehlerbetrachtung}{6}
+\contentsline {subsection}{\numberline {2.3}Referenzwert Kappa}{6}
+\contentsline {section}{\numberline {3}\relax $\@@underline {\hbox {Messwerte}}\mathsurround \z@ $\relax }{7}
+\contentsline {subsection}{\numberline {3.1}Tabelle 1: Methode nach Clement-Desormes:}{7}
+\contentsline {subsubsection}{\numberline {3.1.1}Aufgabe 1:}{7}
+\contentsline {subsection}{\numberline {3.2}Tabelle 2: Methode nach Flammersfeld-R\"uchart}{7}
+\contentsline {subsubsection}{\numberline {3.2.1}Aufgabe 2:}{7}
+\contentsline {section}{\numberline {4}weiteres}{7}
