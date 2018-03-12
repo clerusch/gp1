@@ -8,10 +8,10 @@
 \contentsline {subsection}{\numberline {2.1}Aufgabe 1}{6}
 \contentsline {subsection}{\numberline {2.2}Fehlerbetrachtung}{6}
 \contentsline {subsection}{\numberline {2.3}Referenzwert Kappa}{6}
+\contentsline {subsection}{\numberline {2.4}Aufgabe 2}{6}
 \contentsline {section}{\numberline {3}\relax $\@@underline {\hbox {Messwerte}}\mathsurround \z@ $\relax }{7}
 \contentsline {subsection}{\numberline {3.1}Tabelle 1: Methode nach Clement-Desormes:}{7}
 \contentsline {subsubsection}{\numberline {3.1.1}Aufgabe 1:}{7}
 \contentsline {subsection}{\numberline {3.2}Tabelle 2: Methode nach Flammersfeld-R\"uchart}{7}
 \contentsline {subsubsection}{\numberline {3.2.1}Aufgabe 2:}{7}
-\contentsline {section}{\numberline {4}Aufgabe 2}{7}
-\contentsline {section}{\numberline {5}weiteres}{7}
+\contentsline {section}{\numberline {4}weiteres}{7}
