@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  13 MAR 2018 11:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  13 MAR 2018 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -640,32 +640,9 @@ File: skizzeIsentropenindex.png Graphic file (type png)
 <use skizzeIsentropenindex.png>
 Package pdftex.def Info: skizzeIsentropenindex.png  used on input line 224.
 (pdftex.def)             Requested size: 229.90837pt x 262.42978pt.
-! Argument of \@caption has an extra }.
-<inserted text> 
-                \par 
-l.225   \end{SCfigure}
-                      
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-\@captype {\def \reserved@a *{\let \reserved@e \vadjust \let \reserved@f \ETC.
-! Paragraph ended before \@caption was complete.
-<to be read again> 
-                   \par 
-l.225   \end{SCfigure}
-                      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 225--225
-\OT1/cmr/m/n/10.95 Aufbau nach
+[][]\OT1/cmr/m/n/10.95 : |Aufbau
  []
 
 [6 <./skizzeIsentropenindex.png (PNG copy)>]
@@ -848,7 +825,7 @@ Here is how much of TeX's memory you used:
  8395 multiletter control sequences out of 15000+600000
  15915 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,13n,42p,470b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,13n,42p,470b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
@@ -863,7 +840,7 @@ c/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on protokollisentropenindex.pdf (10 pages, 476183 bytes).
+Output written on protokollisentropenindex.pdf (10 pages, 476189 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
