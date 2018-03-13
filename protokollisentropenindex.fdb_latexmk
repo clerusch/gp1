@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1520929291 "protokollisentropenindex.tex" "protokollisentropenindex.pdf" "protokollisentropenindex" 1520929291
+["pdflatex"] 1520929964 "protokollisentropenindex.tex" "protokollisentropenindex.pdf" "protokollisentropenindex" 1520929964
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1520157216 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1520157226 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1520157226 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -9,6 +9,7 @@
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1520157226 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1520157226 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1520157226 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm" 1520157226 1532 9162035f4e7176612125649e348e2195 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1520157226 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1520157226 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1520157226 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -23,9 +24,11 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1520157226 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1520157226 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1520157226 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1520157226 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1520157226 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1520157214 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1520157214 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1520157213 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1520157213 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1520157213 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1520157213 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
@@ -37,6 +40,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1520157213 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1520157213 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1520157213 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1520157213 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1520157213 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1520157251 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1520157238 2194 f5fcacc41337b623a640c549d42a2a4d ""
@@ -92,9 +96,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1520157258 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1520769328 2698543 2cf52b79017c8ffffb2822ab477d393f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1520769306 7738161 56b476b7ea780be55aadf1ed939b836d ""
-  "protokollisentropenindex.aux" 1520870520 2722 0b46260c0ac26834f6ce8f10b2349c1e ""
-  "protokollisentropenindex.tex" 1520929259 12808 9bd8893130ee7ae0445cb42b4713b449 ""
-  "protokollisentropenindex.toc" 1520870520 1714 5e09e191e8a0d39cf5946a6bfe355d62 ""
+  "protokollisentropenindex.aux" 1520929958 2954 1c1660764a49e8a60815ad5b5d23ef1b ""
+  "protokollisentropenindex.tex" 1520929962 13503 25a60665335a7c791b8d5702487fb6a0 ""
+  "protokollisentropenindex.toc" 1520929958 1908 8a3ef479a31ae728e41d37806e3fe952 ""
   "skizzeIsentropenindex.png" 1520928971 275748 d59acd56e99f543b28a9c82c4158191d ""
   (generated)
   "protokollisentropenindex.aux"
