@@ -159,9 +159,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT skizzeClement.jpg
-INPUT ./skizzeClement.jpg
-INPUT ./skizzeClement.jpg
 INPUT skizzeIsentropenindex.png
 INPUT ./skizzeIsentropenindex.png
 INPUT ./skizzeIsentropenindex.png
