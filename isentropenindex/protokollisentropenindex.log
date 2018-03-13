@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  13 MAR 2018 11:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  13 MAR 2018 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -638,10 +638,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <skizzeIsentropenindex.png, id=36, 229.90894pt x 262.43044pt>
 File: skizzeIsentropenindex.png Graphic file (type png)
 <use skizzeIsentropenindex.png>
-Package pdftex.def Info: skizzeIsentropenindex.png  used on input line 222.
+Package pdftex.def Info: skizzeIsentropenindex.png  used on input line 224.
 (pdftex.def)             Requested size: 229.90837pt x 262.42978pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[][]\OT1/cmr/m/n/10.95 : |Aufbau
+ []
+
 [6 <./skizzeIsentropenindex.png (PNG copy)>]
-Overfull \hbox (19.55324pt too wide) detected at line 300
+Overfull \hbox (19.55324pt too wide) detected at line 302
 []
  []
 
@@ -653,7 +658,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.328  \begin{tabular}{Format}
+l.330  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -665,7 +670,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.328  \begin{tabular}{Format}
+l.330  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -677,7 +682,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.328  \begin{tabular}{Format}
+l.330  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -689,7 +694,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.328  \begin{tabular}{Format}
+l.330  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -701,7 +706,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.328  \begin{tabular}{Format}
+l.330  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -713,7 +718,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.335  \begin{tabular}{FORMAT}
+l.337  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -725,7 +730,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.335  \begin{tabular}{FORMAT}
+l.337  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -737,7 +742,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.335  \begin{tabular}{FORMAT}
+l.337  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -749,7 +754,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.335  \begin{tabular}{FORMAT}
+l.337  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -761,7 +766,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.335  \begin{tabular}{FORMAT}
+l.337  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -773,13 +778,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.335  \begin{tabular}{FORMAT}
+l.337  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.350  Gemessener Luftdruck: 997mbar \plusminus
+l.352  Gemessener Luftdruck: 997mbar \plusminus
                                                ~1mbar \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -790,13 +795,13 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.351  Fehler \Delta
+l.353  Fehler \Delta
                     ~h = \plusminus2 mm
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Undefined control sequence.
-l.351  Fehler \Delta~h = \plusminus
+l.353  Fehler \Delta~h = \plusminus
                                    2 mm
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -807,35 +812,39 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.352 \end{document}
+l.354 \end{document}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[9] (./protokollisentropenindex.aux) ) 
+[9] (./protokollisentropenindex.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4947 strings out of 492982
- 69044 string characters out of 6138579
+ 4949 strings out of 492982
+ 69058 string characters out of 6138579
  175239 words of memory out of 5000000
- 8393 multiletter control sequences out of 15000+600000
+ 8395 multiletter control sequences out of 15000+600000
  15915 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,13n,42p,470b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
-re/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
-share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on protokollisentropenindex.pdf (10 pages, 476162 bytes).
+ 48i,13n,42p,470b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb>
+Output written on protokollisentropenindex.pdf (10 pages, 476187 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
