@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  13 MAR 2018 12:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  13 MAR 2018 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -663,7 +663,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330  \begin{tabular}{Format}
+l.331  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -675,7 +675,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330  \begin{tabular}{Format}
+l.331  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -687,7 +687,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330  \begin{tabular}{Format}
+l.331  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -699,7 +699,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330  \begin{tabular}{Format}
+l.331  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -711,7 +711,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330  \begin{tabular}{Format}
+l.331  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -723,7 +723,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337  \begin{tabular}{FORMAT}
+l.338  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -735,7 +735,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337  \begin{tabular}{FORMAT}
+l.338  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -747,7 +747,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337  \begin{tabular}{FORMAT}
+l.338  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -759,7 +759,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337  \begin{tabular}{FORMAT}
+l.338  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -771,7 +771,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337  \begin{tabular}{FORMAT}
+l.338  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -783,13 +783,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337  \begin{tabular}{FORMAT}
+l.338  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.352  Gemessener Luftdruck: 997mbar \plusminus
+l.353  Gemessener Luftdruck: 997mbar \plusminus
                                                ~1mbar \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -800,13 +800,13 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.353  Fehler \Delta
+l.354  Fehler \Delta
                     ~h = \plusminus2 mm
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Undefined control sequence.
-l.353  Fehler \Delta~h = \plusminus
+l.354  Fehler \Delta~h = \plusminus
                                    2 mm
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -817,17 +817,17 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.354 \end{document}
+l.355 \end{document}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 [9] (./protokollisentropenindex.aux) ) 
 Here is how much of TeX's memory you used:
- 4950 strings out of 492982
- 69064 string characters out of 6138579
- 175259 words of memory out of 5000000
- 8396 multiletter control sequences out of 15000+600000
+ 4949 strings out of 492982
+ 69058 string characters out of 6138579
+ 175249 words of memory out of 5000000
+ 8395 multiletter control sequences out of 15000+600000
  15915 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,13n,42p,470b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -845,7 +845,7 @@ c/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on protokollisentropenindex.pdf (10 pages, 476207 bytes).
+Output written on protokollisentropenindex.pdf (10 pages, 476512 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
