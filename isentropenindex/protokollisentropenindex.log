@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  13 MAR 2018 11:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.11)  13 MAR 2018 11:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -499,21 +499,32 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
+) (/usr/share/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen123
+\SC@CAPWD=\dimen124
+\SC@tempdima=\dimen125
+\SC@tempdimb=\dimen126
+\c@SC@C=\count106
+\SC@BOX=\box28
 ) (./protokollisentropenindex.aux)
 \openout1 = `protokollisentropenindex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -550,16 +561,16 @@ LaTeX Font Info:    ... okay on input line 9.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen123
-\scratchbox=\box28
-\nofMPsegments=\count107
-\nofMParguments=\count108
+\scratchcounter=\count107
+\scratchdimen=\dimen127
+\scratchbox=\box29
+\nofMPsegments=\count108
+\nofMParguments=\count109
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen124
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen128
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
 \everyMPtoPDFconversion=\toks25
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -587,7 +598,28 @@ G,.JBIG2,.JB2,.eps]
 (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-)) [1
+)) (/usr/share/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+(/usr/share/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip46
+\RaggedLeftLeftskip=\skip47
+\RaggedRightLeftskip=\skip48
+\CenteringRightskip=\skip49
+\RaggedLeftRightskip=\skip50
+\RaggedRightRightskip=\skip51
+\CenteringParfillskip=\skip52
+\RaggedLeftParfillskip=\skip53
+\RaggedRightParfillskip=\skip54
+\JustifyingParfillskip=\skip55
+\CenteringParindent=\skip56
+\RaggedLeftParindent=\skip57
+\RaggedRightParindent=\skip58
+\JustifyingParindent=\skip59
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./protokollisentropeninde
 x.toc
@@ -606,10 +638,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <skizzeIsentropenindex.png, id=36, 229.90894pt x 262.43044pt>
 File: skizzeIsentropenindex.png Graphic file (type png)
 <use skizzeIsentropenindex.png>
-Package pdftex.def Info: skizzeIsentropenindex.png  used on input line 221.
+Package pdftex.def Info: skizzeIsentropenindex.png  used on input line 222.
 (pdftex.def)             Requested size: 229.90837pt x 262.42978pt.
 [6 <./skizzeIsentropenindex.png (PNG copy)>]
-Overfull \hbox (19.55324pt too wide) detected at line 299
+Overfull \hbox (19.55324pt too wide) detected at line 300
 []
  []
 
@@ -621,7 +653,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.327  \begin{tabular}{Format}
+l.328  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -633,7 +665,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.327  \begin{tabular}{Format}
+l.328  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -645,7 +677,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.327  \begin{tabular}{Format}
+l.328  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -657,7 +689,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.327  \begin{tabular}{Format}
+l.328  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -669,7 +701,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.327  \begin{tabular}{Format}
+l.328  \begin{tabular}{Format}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -681,7 +713,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334  \begin{tabular}{FORMAT}
+l.335  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -693,7 +725,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334  \begin{tabular}{FORMAT}
+l.335  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -705,7 +737,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334  \begin{tabular}{FORMAT}
+l.335  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -717,7 +749,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334  \begin{tabular}{FORMAT}
+l.335  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -729,7 +761,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334  \begin{tabular}{FORMAT}
+l.335  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -741,13 +773,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334  \begin{tabular}{FORMAT}
+l.335  \begin{tabular}{FORMAT}
                               
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.349  Gemessener Luftdruck: 997mbar \plusminus
+l.350  Gemessener Luftdruck: 997mbar \plusminus
                                                ~1mbar \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -758,13 +790,13 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.350  Fehler \Delta
+l.351  Fehler \Delta
                     ~h = \plusminus2 mm
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Undefined control sequence.
-l.350  Fehler \Delta~h = \plusminus
+l.351  Fehler \Delta~h = \plusminus
                                    2 mm
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -775,17 +807,17 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.351 \end{document}
+l.352 \end{document}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 [9] (./protokollisentropenindex.aux) ) 
 Here is how much of TeX's memory you used:
- 4719 strings out of 492982
- 65519 string characters out of 6138579
- 171936 words of memory out of 5000000
- 8179 multiletter control sequences out of 15000+600000
+ 4947 strings out of 492982
+ 69044 string characters out of 6138579
+ 175239 words of memory out of 5000000
+ 8393 multiletter control sequences out of 15000+600000
  15915 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,13n,42p,470b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -803,7 +835,7 @@ c/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on protokollisentropenindex.pdf (10 pages, 476160 bytes).
+Output written on protokollisentropenindex.pdf (10 pages, 476162 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream

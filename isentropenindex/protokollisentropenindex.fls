@@ -83,6 +83,10 @@ INPUT /usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texmf-dist/tex/latex/sidecap/sidecap.sty
+INPUT /usr/share/texmf-dist/tex/latex/sidecap/sidecap.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/ifthen.sty
 INPUT protokollisentropenindex.aux
 INPUT protokollisentropenindex.aux
 OUTPUT protokollisentropenindex.aux
@@ -102,6 +106,11 @@ INPUT /usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texmf-dist/tex/latex/ms/ragged2e.sty
+INPUT /usr/share/texmf-dist/tex/latex/ms/ragged2e.sty
+INPUT /usr/share/texmf-dist/tex/latex/ms/ragged2e.sty
+INPUT /usr/share/texmf-dist/tex/latex/ms/everysel.sty
+INPUT /usr/share/texmf-dist/tex/latex/ms/everysel.sty
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
