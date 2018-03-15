@@ -1,0 +1,44 @@
+Raumbelastung 0.2
+Strahlungsbelastungen bei 0.25 m entfernung
+Kobalt 0.5 mykrosievert/h
+Caesium 0.3
+Natrium 0.4
+Americium 0.3
+
+Versuch 1 (Kobalt 60)
+
+PhotonPeak 1
+a=kanalposition=3290
+b=standardabweichung=114
+
+Photonpeak 2
+a=3663
+b=91.6
+
+Versuch 2 (Natrium 22)
+
+Vernichtungspeak 1
+a=1499
+b=63.5
+
+Photonpeak (klein)
+a=3542
+b=101
+
+Versuch 3 (Caesium 137)
+
+Photonpeak 1
+a=1922
+b=69.7
+
+Compton-kante=1408 
+
+Versuch 4 (Americium 241)
+
+Peak 1
+a=196
+b=12.8
+
+Peak 2 (unwichtig, messfehle von apparatur oder so)
+a=90.6
+b=17.3
