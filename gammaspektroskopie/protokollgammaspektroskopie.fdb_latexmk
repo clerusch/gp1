@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1521028761 "protokollgammaspektroskopie.tex" "protokollgammaspektroskopie.pdf" "protokollgammaspektroskopie" 1521028761
+["pdflatex"] 1521206273 "protokollgammaspektroskopie.tex" "protokollgammaspektroskopie.pdf" "protokollgammaspektroskopie" 1521206273
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1520157216 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1520157226 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1520157226 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -24,6 +24,7 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1520157226 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1520157226 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1520157226 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1520157225 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1520157214 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1520157214 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1520157213 32001 6aeea3afe875097b1eb0da29acd61e28 ""
@@ -35,6 +36,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1520157213 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1520157213 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1520157213 36118 fad905eba93cff5bce1e185fe980a177 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1520157213 31099 c85edf1dd5b9e826d67c9c7293b6786c ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1520157251 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1520157238 2194 f5fcacc41337b623a640c549d42a2a4d ""
   "/usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf" 1520157238 7200 6f6a9808555813df860e8ea6af93aeda ""
@@ -93,11 +95,12 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1520157258 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1520769328 2698543 2cf52b79017c8ffffb2822ab477d393f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1520769306 7738161 56b476b7ea780be55aadf1ed939b836d ""
-  "protokollgammaspektroskopie.aux" 1521028761 743 41a104fb2f7ef0f19b9fdc5e5996b1fa ""
-  "protokollgammaspektroskopie.tex" 1521028754 4585 66dee5cbab1eb2c85c30261fcf7ea0d2 ""
-  "protokollgammaspektroskopie.toc" 1521028761 587 90a329f34c8a9726d1899b95a8ad0a7e ""
+  "Szint.jpg" 0 -1 0 ""
+  "protokollgammaspektroskopie.aux" 1521205250 1790 b133be6e0ccd9f9022747076c9811b72 ""
+  "protokollgammaspektroskopie.tex" 1521206273 7882 962c7c576b16297805a943c795467d6d ""
+  "protokollgammaspektroskopie.toc" 1521205250 1290 30ed88fb6e353f09e646f1c111436138 ""
   (generated)
-  "protokollgammaspektroskopie.toc"
   "protokollgammaspektroskopie.pdf"
-  "protokollgammaspektroskopie.aux"
   "protokollgammaspektroskopie.log"
+  "protokollgammaspektroskopie.aux"
+  "protokollgammaspektroskopie.toc"
