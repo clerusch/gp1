@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1521463598 "protokollgammaspektroskopie.tex" "protokollgammaspektroskopie.pdf" "protokollgammaspektroskopie" 1521463598
+["pdflatex"] 1521463731 "protokollgammaspektroskopie.tex" "protokollgammaspektroskopie.pdf" "protokollgammaspektroskopie" 1521463731
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1520157216 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1520157226 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1520157226 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -94,11 +94,11 @@
   "Bilder/Szint.png" 1521457833 37091 2a2eca352951468d8c288e4b5d0105b1 ""
   "Bilder/blei.png" 1521456480 64861 6736abacd235f2382c86552b86562901 ""
   "Bilder/eisen.png" 1521456365 68156 c4e187b92f208eb92c2bdc3951b7ee4f ""
-  "protokollgammaspektroskopie.aux" 1521459756 1649 9a20c213b3c7d77babe4c1caf070c67e ""
-  "protokollgammaspektroskopie.tex" 1521463580 11086 ae48c1ffff8516f264ec727b7d53d019 ""
-  "protokollgammaspektroskopie.toc" 1521459756 1117 5fe9133f9a8e49e47212c8d6cf56bd69 ""
+  "protokollgammaspektroskopie.aux" 1521463611 1649 13c529dc55600972c6f6161c30f21eae ""
+  "protokollgammaspektroskopie.tex" 1521463721 11090 ae80c3ccfced826f411f0161ebff4307 ""
+  "protokollgammaspektroskopie.toc" 1521463611 1117 48432500d82e88aedf949b454a14e95b ""
   (generated)
-  "protokollgammaspektroskopie.pdf"
-  "protokollgammaspektroskopie.log"
   "protokollgammaspektroskopie.toc"
+  "protokollgammaspektroskopie.pdf"
   "protokollgammaspektroskopie.aux"
+  "protokollgammaspektroskopie.log"
