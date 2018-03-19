@@ -1,0 +1,14 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}\relax $\@@underline {\hbox {Einleitung}}\mathsurround \z@ $\relax }{2}
+\contentsline {section}{\numberline {2}\relax $\@@underline {\hbox {Physikalische Grundlagen}}\mathsurround \z@ $\relax }{2}
+\contentsline {section}{\numberline {3}\relax $\@@underline {\hbox {Ger\IeC {\"a}te}}\mathsurround \z@ $\relax }{4}
+\contentsline {section}{\numberline {4}\relax $\@@underline {\hbox {Durchf\IeC {\"u}hrung}}\mathsurround \z@ $\relax }{4}
+\contentsline {section}{\numberline {5}\relax $\@@underline {\hbox {Aufbau}}\mathsurround \z@ $\relax }{5}
+\contentsline {section}{\numberline {6}\relax $\@@underline {\hbox {Auswertung}}\mathsurround \z@ $\relax }{6}
+\contentsline {subsection}{\numberline {6.1}Aufgabe 1}{6}
+\contentsline {subsection}{\numberline {6.2}Aufgabe 2}{6}
+\contentsline {subsection}{\numberline {6.3}Aufgabe 3}{6}
+\contentsline {subsection}{\numberline {6.4}Aufgabe 4}{6}
+\contentsline {subsection}{\numberline {6.5}Aufgabe 5}{6}
+\contentsline {subsection}{\numberline {6.6}Aufgabe 6}{7}
+\contentsline {section}{\numberline {7}Diskussion}{7}
