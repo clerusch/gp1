@@ -10,5 +10,5 @@
 \contentsline {subsection}{\numberline {6.3}Aufgabe 3}{6}
 \contentsline {subsection}{\numberline {6.4}Aufgabe 4}{6}
 \contentsline {subsection}{\numberline {6.5}Aufgabe 5}{6}
-\contentsline {subsection}{\numberline {6.6}Aufgabe 6}{7}
-\contentsline {section}{\numberline {7}Diskussion}{7}
+\contentsline {subsection}{\numberline {6.6}Aufgabe 6}{6}
+\contentsline {section}{\numberline {7}Diskussion}{8}
